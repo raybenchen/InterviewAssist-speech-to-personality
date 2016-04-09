@@ -1,5 +1,5 @@
 #InterviewAssistant
-    面试场景助手，可以协助面试时录音和分析性格的功能。
+    面试场景助手，可以协助面试时录音和分析性格的功能。 
 
 #Video
 视频演示地址：http://pan.baidu.com/s/1dD0SNmD
